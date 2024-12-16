@@ -22,3 +22,6 @@ Web Developer
 [![uiuifree/rust-sitemap-writer](https://github-readme-stats.vercel.app/api/pin/?username=uiuifree&repo=rust-sitemap-writer)](https://github.com/uiuifree/rust-sitemap-writer)
 
 [![uiuifree/rust-openai-chatgpt-api](https://github-readme-stats.vercel.app/api/pin/?username=uiuifree&repo=rust-openai-chatgpt-api)](https://github.com/uiuifree/rust-openai-chatgpt-api)
+
+[![uiuifree//rust-line-messaging-api](https://github-readme-stats.vercel.app/api/pin/?username=uiuifree&repo=rust-line-messaging-api)](https://github.com/uiuifree/rust-line-messaging-api)
+
