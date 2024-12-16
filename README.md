@@ -11,17 +11,10 @@ Web Developer
 ## Rust
 
 [![uiuifree/elastic-query-builder](https://github-readme-stats.vercel.app/api/pin/?username=uiuifree&repo=elastic-query-builder)](https://github.com/uiuifree/elastic-query-builder)
-
-
 [![uiuifree/rust-google-search-console-api](https://github-readme-stats.vercel.app/api/pin/?username=uiuifree&repo=rust-google-search-console-api)](https://github.com/uiuifree/rust-google-search-console-api)
-
 [![uiuifree/rust-google-indexing-api](https://github-readme-stats.vercel.app/api/pin/?username=uiuifree&repo=rust-google-indexing-api)](https://github.com/uiuifree/rust-google-indexing-api)
-
 [![uiuifree/rust-google-analytics-api-ga4](https://github-readme-stats.vercel.app/api/pin/?username=uiuifree&repo=rust-google-analytics-api-ga4)](https://github.com/uiuifree/rust-google-analytics-api-ga4)
-
 [![uiuifree/rust-sitemap-writer](https://github-readme-stats.vercel.app/api/pin/?username=uiuifree&repo=rust-sitemap-writer)](https://github.com/uiuifree/rust-sitemap-writer)
-
 [![uiuifree/rust-openai-chatgpt-api](https://github-readme-stats.vercel.app/api/pin/?username=uiuifree&repo=rust-openai-chatgpt-api)](https://github.com/uiuifree/rust-openai-chatgpt-api)
-
 [![uiuifree//rust-line-messaging-api](https://github-readme-stats.vercel.app/api/pin/?username=uiuifree&repo=rust-line-messaging-api)](https://github.com/uiuifree/rust-line-messaging-api)
 
