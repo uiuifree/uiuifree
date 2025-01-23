@@ -18,3 +18,9 @@ Web Developer
 [![uiuifree/rust-openai-chatgpt-api](https://github-readme-stats.vercel.app/api/pin/?username=uiuifree&repo=rust-openai-chatgpt-api)](https://github.com/uiuifree/rust-openai-chatgpt-api)
 [![uiuifree//rust-line-messaging-api](https://github-readme-stats.vercel.app/api/pin/?username=uiuifree&repo=rust-line-messaging-api)](https://github.com/uiuifree/rust-line-messaging-api)
 
+
+
+## Follow Service
+[X(Twitter)](https://x.com/uiuifree)  
+[Zenn](https://zenn.dev/uiuifree)  
+[kaigojobselect.com](https://www.kaigojobselect.com/)  
