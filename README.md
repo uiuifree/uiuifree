@@ -2,9 +2,9 @@
 
 **Web Backend Developer / Engineer** based in Japan 🇯🇵
 
-I love Rust. I build backend systems and publish Rust libraries — API clients (Google, LINE, Slack, OpenAI) and geospatial / open-data libraries for Japan.
+I love Rust. I build backend systems and publish Rust libraries — API clients (Google, LINE, Slack, OpenAI), geospatial / open-data libraries for Japan, and Japanese text-processing libraries for job data.
 
-Rustが好きです。バックエンド開発を中心に、各種APIクライアントや日本の地理空間・オープンデータを扱うRustライブラリを公開しています。
+Rustが好きです。バックエンド開発を中心に、各種APIクライアントや日本の地理空間・オープンデータ、求人データ向け日本語テキスト処理を扱うRustライブラリを公開しています。
 
 [![GitHub followers](https://img.shields.io/github/followers/uiuifree?style=social)](https://github.com/uiuifree)
 [![X (Twitter)](https://img.shields.io/badge/-@uiuifree-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/uiuifree)
@@ -55,6 +55,16 @@ Rustが好きです。バックエンド開発を中心に、各種APIクライ�
 | [rust-japan-reverse-geocoder](https://github.com/uiuifree/rust-japan-reverse-geocoder) | [![Crates.io](https://img.shields.io/crates/v/japan-reverse-geocoder.svg)](https://crates.io/crates/japan-reverse-geocoder) | Offline reverse geocoding for Japan using MLIT location reference data / 国土交通省の位置参照情報を同梱した日本向けオフライン逆ジオコーディング |
 | [jp-location-relation](https://crates.io/crates/jp-location-relation) | [![Crates.io](https://img.shields.io/crates/v/jp-location-relation.svg)](https://crates.io/crates/jp-location-relation) | Adjacency relations of Japanese prefectures and municipalities / 日本の市区町村・都道府県の隣接関係を取得するライブラリ |
 | [rust-minimum-wage-jp](https://github.com/uiuifree/rust-minimum-wage-jp) | [![Crates.io](https://img.shields.io/crates/v/minimum_wage_jp.svg)](https://crates.io/crates/minimum_wage_jp) | Japan's regional minimum wage rates and compliance checks / 日本の地域別最低賃金の取得・チェックを行うライブラリ |
+| [rust-jp-address-search](https://github.com/uiuifree/rust-jp-address-search) | [![Crates.io](https://img.shields.io/crates/v/jp-address-search.svg)](https://crates.io/crates/jp-address-search) | Fast, zero-dependency Japanese address search by postal code, prefecture, and city / 郵便番号・都道府県・市区町村から住所を検索する依存ゼロ・データ同梱のライブラリ |
+
+### 💼 Job Data / Japanese Text Processing
+
+| Library | crates.io | Description |
+|---------|-----------|-------------|
+| [tagpipe-core](https://github.com/uiuifree/tagpipe-core) | [![Crates.io](https://img.shields.io/crates/v/tagpipe-core.svg)](https://crates.io/crates/tagpipe-core) | Dictionary-based, explainable / auditable tagging & attribute-extraction pipeline engine with Japanese text normalization / 辞書ベースで説明可能・監査可能なタグ付け・属性抽出パイプラインエンジン（日本語正規化対応） |
+| [job-formatter-core](https://github.com/uiuifree/job-formatter-core) | [![Crates.io](https://img.shields.io/crates/v/job-formatter-core.svg)](https://crates.io/crates/job-formatter-core) | Industry-agnostic job-feed formatting engine: CSV/Excel → normalized JSONL → per-media rows / 企業CSV/Excelを正規化JSONL・媒体別データへ変換する求人フィード整形エンジン（並列・順序保持・Shift_JIS自動判定） |
+| [rust-salary-parser-jp](https://github.com/uiuifree/rust-salary-parser-jp) | [![Crates.io](https://img.shields.io/crates/v/salary-parser-jp.svg)](https://crates.io/crates/salary-parser-jp) | Parse Japanese job-posting salary text into typed yen amounts (hourly / daily / monthly / yearly) / 求人の給与テキスト（「月給21万円〜26万円」等）を時給・日給・月給・年収の金額に構造化するパーサー |
+| [rust-station-resolver-jp](https://github.com/uiuifree/rust-station-resolver-jp) | [![Crates.io](https://img.shields.io/crates/v/station-resolver-jp.svg)](https://crates.io/crates/station-resolver-jp) | Japanese station-access text parser: extracts walk/bus/car/train minutes and resolves station names / 求人のアクセス欄から徒歩・バス・車・電車の所要時間を抽出し、駅名を解決するパーサー |
 
 ### 🧰 Utilities
 
