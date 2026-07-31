@@ -46,6 +46,7 @@ Rustが好きです。バックエンド開発を中心に、各種APIクライ�
 | [rust-line-login-api](https://github.com/uiuifree/rust-line-login-api) | [![Crates.io](https://img.shields.io/crates/v/line-login-api.svg)](https://crates.io/crates/line-login-api) | Rust client for the LINE Login API / LINE Login APIのRustクライアント |
 | [slack-web-api](https://crates.io/crates/slack-web-api) | [![Crates.io](https://img.shields.io/crates/v/slack-web-api.svg)](https://crates.io/crates/slack-web-api) | Rust client for the Slack Web API / Slack Web APIのRustクライアント |
 | [rust-gbiz-info-api](https://github.com/uiuifree/rust-gbiz-info-api) | [![Crates.io](https://img.shields.io/crates/v/gbiz-info-api.svg)](https://crates.io/crates/gbiz-info-api) | Rust client for the gBizINFO REST API (v2) / gBizINFO REST API (v2) のRustクライアント |
+| [rust-web-arena-indigo](https://github.com/uiuifree/rust-web-arena-indigo) | [![Crates.io](https://img.shields.io/crates/v/web-arena-indigo.svg)](https://crates.io/crates/web-arena-indigo) | Async Rust client for the WebARENA Indigo VPS API (NTTPC) / WebARENA Indigo VPS API（NTTPC）の非同期Rustクライアント |
 
 ### 🗺 Geospatial / Japan Data
 
