@@ -79,3 +79,9 @@ All crates are published on crates.io. Crate name links to the GitHub repository
 | Crate | Version | Description |
 |-------|---------|-------------|
 | [shinchoku](https://github.com/uiuifree/shinchoku) | [![Crates.io](https://img.shields.io/crates/v/shinchoku.svg)](https://crates.io/crates/shinchoku) | NDJSON protocol for batch CLI progress reporting — Rust / Go / Node / PHP / Python ([shinchoku.app](https://shinchoku.app/)) / バッチCLIの進捗報告のためのNDJSONプロトコル |
+
+## 🤖 Tools
+
+| Tool | Description |
+|------|-------------|
+| [agent-calendar](https://github.com/uiuifree/agent-calendar) | Local calendar for Claude Code and Codex sessions: summaries, time and cost per project, conversation history, continue and schedule agents / Claude Code・Codex のセッションを手元のカレンダーで見るツール。セッションの要約、案件ごとの作業時間と費用、会話の履歴、続きの指示・予約実行 |
